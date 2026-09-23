@@ -1,0 +1,301 @@
+shipment_id,order_date,ship_date,delivery_date,promised_days,carrier,mode,origin,destination,weight_kg,freight_cost_usd,transit_days,on_time,month
+SH10133,2026-01-05,2026-01-05,2026-01-13,5,Northstar Logistics,Truck,Toronto,Buffalo,552.1,1154.8,8,Late,2026-01
+SH10798,2026-01-05,2026-01-07,2026-02-03,28,Atlas Freight,Ocean,Rotterdam,Rochester,779.7,838.46,27,On time,2026-01
+SH10386,2026-01-05,2026-01-08,2026-01-30,23,BlueWave Shipping,Ocean,Shanghai,Chicago,919.5,883.52,22,On time,2026-01
+SH10074,2026-01-06,2026-01-09,2026-01-16,7,Harbor Express,Truck,Pittsburgh,New York City,199.5,362.75,7,On time,2026-01
+SH10737,2026-01-09,2026-01-09,2026-01-11,2,Summit Air Cargo,Air,Shanghai,Dallas,30.0,383.17,2,On time,2026-01
+SH11014,2026-01-10,2026-01-10,2026-01-17,4,Harbor Express,Truck,Toronto,Atlanta,1060.0,2014.17,7,Late,2026-01
+SH10311,2026-01-11,2026-01-14,2026-01-15,2,Summit Air Cargo,Air,Frankfurt,Dallas,48.7,446.35,1,On time,2026-01
+SH10551,2026-01-11,2026-01-11,2026-01-17,6,Harbor Express,Truck,Toronto,New York City,1393.6,2510.29,6,On time,2026-01
+SH10049,2026-01-13,2026-01-13,2026-01-21,8,Harbor Express,Truck,Toronto,Buffalo,1193.3,2320.77,8,On time,2026-01
+SH10033,2026-01-15,2026-01-16,2026-01-21,3,Summit Air Cargo,Air,Shanghai,New York City,514.7,3720.59,5,Late,2026-01
+SH10747,2026-01-16,2026-01-18,2026-01-25,7,Harbor Express,Truck,Toronto,Dallas,1044.0,1937.94,7,On time,2026-01
+SH10632,2026-01-17,2026-01-18,2026-01-24,7,Northstar Logistics,Truck,Montreal,New York City,1041.3,1741.43,6,On time,2026-01
+SH10659,2026-01-17,2026-01-19,2026-02-06,18,BlueWave Shipping,Ocean,Singapore,New York City,2017.7,2340.89,18,On time,2026-01
+SH11120,2026-01-18,2026-01-18,2026-02-10,20,Northstar Logistics,Ocean,Rotterdam,Dallas,1620.8,1606.99,23,Late,2026-01
+SH10431,2026-01-18,2026-01-19,2026-02-15,28,BlueWave Shipping,Ocean,Rotterdam,Dallas,1594.5,1744.42,27,On time,2026-01
+SH10740,2026-01-19,2026-01-21,2026-01-27,6,Harbor Express,Truck,Montreal,New York City,163.9,291.78,6,On time,2026-01
+SH10060,2026-01-20,2026-01-22,2026-01-27,5,Harbor Express,Truck,Montreal,Atlanta,507.9,1075.01,5,On time,2026-01
+SH10304,2026-01-20,2026-01-21,2026-02-17,27,BlueWave Shipping,Ocean,Singapore,Atlanta,3447.0,3404.54,27,On time,2026-01
+SH10379,2026-01-21,2026-01-21,2026-02-18,22,Northstar Logistics,Ocean,Shanghai,Atlanta,1004.3,1085.02,28,Late,2026-01
+SH10468,2026-01-22,2026-01-24,2026-01-28,4,Harbor Express,Truck,Toronto,Rochester,1337.4,2612.33,4,On time,2026-01
+SH10524,2026-01-23,2026-01-26,2026-01-30,4,Summit Air Cargo,Air,Mexico City,Atlanta,56.1,602.75,4,On time,2026-01
+SH10153,2026-01-23,2026-01-26,2026-02-03,8,Northstar Logistics,Truck,Toronto,New York City,380.1,843.22,8,On time,2026-01
+SH11110,2026-01-25,2026-01-25,2026-02-02,8,Harbor Express,Truck,Toronto,New York City,255.2,616.73,8,On time,2026-01
+SH10373,2026-01-25,2026-01-25,2026-02-02,8,Atlas Freight,Truck,Toronto,Buffalo,362.4,564.73,8,On time,2026-01
+SH10952,2026-01-25,2026-01-27,2026-01-31,4,Northstar Logistics,Truck,Toronto,Buffalo,196.6,446.88,4,On time,2026-01
+SH11012,2026-01-26,2026-01-29,2026-02-06,5,Northstar Logistics,Truck,Toronto,Atlanta,768.6,1496.79,8,Late,2026-01
+SH10962,2026-01-26,2026-01-26,2026-01-30,4,Atlas Freight,Truck,Montreal,Atlanta,206.2,509.41,4,On time,2026-01
+SH10470,2026-01-27,2026-01-30,2026-02-02,4,Summit Air Cargo,Air,Mexico City,Atlanta,301.6,2171.23,3,On time,2026-01
+SH10669,2026-01-28,2026-01-28,2026-02-01,4,Summit Air Cargo,Air,Frankfurt,Dallas,99.4,898.52,4,On time,2026-01
+SH10869,2026-01-28,2026-01-31,2026-02-08,8,Northstar Logistics,Truck,Toronto,New York City,555.7,1272.73,8,On time,2026-01
+SH10997,2026-01-30,2026-01-30,2026-02-01,3,Summit Air Cargo,Air,Frankfurt,Atlanta,76.9,685.41,2,On time,2026-01
+SH10417,2026-01-31,2026-02-03,2026-02-07,4,Harbor Express,Truck,Toronto,New York City,324.5,700.81,4,On time,2026-01
+SH10585,2026-02-01,2026-02-01,2026-02-02,2,Summit Air Cargo,Air,Frankfurt,Rochester,208.8,1308.74,1,On time,2026-02
+SH11028,2026-02-01,2026-02-04,2026-02-11,8,Harbor Express,Truck,Toronto,Rochester,931.4,1686.82,7,On time,2026-02
+SH10251,2026-02-01,2026-02-02,2026-03-08,30,Atlas Freight,Ocean,Rotterdam,Chicago,809.7,966.08,34,Late,2026-02
+SH10781,2026-02-02,2026-02-03,2026-03-01,26,Northstar Logistics,Ocean,Singapore,Dallas,810.1,725.45,26,On time,2026-02
+SH10144,2026-02-02,2026-02-02,2026-03-03,23,Northstar Logistics,Ocean,Shanghai,New York City,1449.0,1582.4,29,Late,2026-02
+SH11036,2026-02-03,2026-02-04,2026-02-28,25,Atlas Freight,Ocean,Singapore,Buffalo,2796.3,2597.01,24,On time,2026-02
+SH10055,2026-02-05,2026-02-08,2026-02-16,8,Atlas Freight,Truck,Toronto,New York City,1391.2,2581.23,8,On time,2026-02
+SH10677,2026-02-06,2026-02-08,2026-02-11,4,Harbor Express,Truck,Pittsburgh,Rochester,983.5,1617.03,3,On time,2026-02
+SH10127,2026-02-06,2026-02-08,2026-02-09,2,Summit Air Cargo,Air,Shanghai,New York City,36.1,372.07,1,On time,2026-02
+SH10548,2026-02-06,2026-02-08,2026-02-27,19,BlueWave Shipping,Ocean,Shanghai,Dallas,2246.6,2133.75,19,On time,2026-02
+SH10943,2026-02-06,2026-02-09,2026-02-27,19,BlueWave Shipping,Ocean,Rotterdam,Atlanta,3499.0,3094.31,18,On time,2026-02
+SH11101,2026-02-08,2026-02-11,2026-02-14,4,Harbor Express,Truck,Toronto,Rochester,1133.0,2016.15,3,On time,2026-02
+SH11098,2026-02-09,2026-02-10,2026-02-28,18,BlueWave Shipping,Ocean,Singapore,Dallas,1479.7,1593.08,18,On time,2026-02
+SH11188,2026-02-09,2026-02-11,2026-03-12,30,Northstar Logistics,Ocean,Singapore,Chicago,250.1,376.73,29,On time,2026-02
+SH10767,2026-02-10,2026-02-10,2026-03-05,23,Northstar Logistics,Ocean,Rotterdam,Atlanta,3088.2,3207.26,23,On time,2026-02
+SH10337,2026-02-10,2026-02-13,2026-02-17,4,Harbor Express,Truck,Toronto,Chicago,190.5,372.18,4,On time,2026-02
+SH10295,2026-02-11,2026-02-13,2026-03-12,25,BlueWave Shipping,Ocean,Singapore,New York City,1263.6,1211.21,27,Late,2026-02
+SH10192,2026-02-11,2026-02-14,2026-02-21,7,Atlas Freight,Truck,Pittsburgh,Buffalo,107.5,335.63,7,On time,2026-02
+SH11005,2026-02-11,2026-02-11,2026-02-16,6,Atlas Freight,Truck,Toronto,Buffalo,580.5,1035.72,5,On time,2026-02
+SH10136,2026-02-12,2026-02-12,2026-02-16,4,Atlas Freight,Truck,Montreal,Dallas,1352.7,2767.66,4,On time,2026-02
+SH10877,2026-02-14,2026-02-17,2026-03-09,21,Northstar Logistics,Ocean,Shanghai,Dallas,2108.2,2103.76,20,On time,2026-02
+SH10308,2026-02-14,2026-02-15,2026-02-22,7,Harbor Express,Truck,Pittsburgh,Rochester,714.3,1327.12,7,On time,2026-02
+SH11022,2026-02-15,2026-02-18,2026-02-27,5,Northstar Logistics,Truck,Montreal,New York City,339.2,755.03,9,Late,2026-02
+SH10976,2026-02-16,2026-02-18,2026-02-22,4,Atlas Freight,Truck,Pittsburgh,Chicago,1436.0,2771.17,4,On time,2026-02
+SH10493,2026-02-16,2026-02-17,2026-03-13,25,BlueWave Shipping,Ocean,Singapore,Rochester,1135.2,1250.79,24,On time,2026-02
+SH10393,2026-02-16,2026-02-18,2026-02-24,6,Harbor Express,Truck,Toronto,New York City,18.3,160.07,6,On time,2026-02
+SH10542,2026-02-17,2026-02-17,2026-02-24,7,Harbor Express,Truck,Toronto,Chicago,645.3,1047.95,7,On time,2026-02
+SH10257,2026-02-18,2026-02-18,2026-02-22,5,Harbor Express,Truck,Pittsburgh,Buffalo,577.8,1031.15,4,On time,2026-02
+SH10164,2026-02-19,2026-02-22,2026-02-27,6,Harbor Express,Truck,Toronto,New York City,1757.6,2648.4,5,On time,2026-02
+SH11137,2026-02-19,2026-02-21,2026-02-26,6,Harbor Express,Truck,Toronto,Buffalo,588.1,1045.06,5,On time,2026-02
+SH10805,2026-02-20,2026-02-21,2026-02-25,4,Harbor Express,Truck,Montreal,Chicago,1062.6,2206.88,4,On time,2026-02
+SH10262,2026-02-20,2026-02-21,2026-02-25,4,Harbor Express,Truck,Pittsburgh,Buffalo,1524.4,2764.96,4,On time,2026-02
+SH10560,2026-02-21,2026-02-22,2026-02-28,7,Harbor Express,Truck,Toronto,Dallas,194.1,543.24,6,On time,2026-02
+SH11000,2026-02-21,2026-02-22,2026-03-14,21,Atlas Freight,Ocean,Shanghai,Buffalo,1804.6,1645.26,20,On time,2026-02
+SH11085,2026-02-22,2026-02-25,2026-03-06,5,Harbor Express,Truck,Toronto,Chicago,665.2,1142.39,9,Late,2026-02
+SH10336,2026-02-22,2026-02-25,2026-03-26,25,Northstar Logistics,Ocean,Singapore,Rochester,1576.3,1571.83,29,Late,2026-02
+SH10745,2026-02-22,2026-02-22,2026-03-21,27,BlueWave Shipping,Ocean,Singapore,Rochester,737.0,818.18,27,On time,2026-02
+SH10784,2026-02-24,2026-02-24,2026-03-02,6,Atlas Freight,Truck,Toronto,New York City,546.5,871.76,6,On time,2026-02
+SH10106,2026-02-26,2026-02-28,2026-03-02,2,Summit Air Cargo,Air,Mexico City,New York City,48.4,376.2,2,On time,2026-02
+SH10183,2026-02-27,2026-03-02,2026-03-22,20,Atlas Freight,Ocean,Shanghai,Dallas,1336.9,1241.79,20,On time,2026-02
+SH11004,2026-02-28,2026-03-03,2026-03-06,4,Summit Air Cargo,Air,Frankfurt,Rochester,154.0,1213.76,3,On time,2026-02
+SH10766,2026-03-01,2026-03-02,2026-04-04,29,Northstar Logistics,Ocean,Rotterdam,Chicago,367.2,465.64,33,Late,2026-03
+SH11196,2026-03-01,2026-03-02,2026-03-29,28,BlueWave Shipping,Ocean,Rotterdam,New York City,1826.7,1718.96,27,On time,2026-03
+SH10499,2026-03-03,2026-03-06,2026-03-12,7,Harbor Express,Truck,Pittsburgh,Chicago,829.0,1590.27,6,On time,2026-03
+SH10539,2026-03-03,2026-03-04,2026-03-09,6,Harbor Express,Truck,Toronto,Chicago,497.7,840.32,5,On time,2026-03
+SH10769,2026-03-04,2026-03-05,2026-03-23,18,BlueWave Shipping,Ocean,Singapore,New York City,1491.4,1705.16,18,On time,2026-03
+SH10757,2026-03-04,2026-03-04,2026-03-25,21,BlueWave Shipping,Ocean,Shanghai,New York City,852.9,1078.09,21,On time,2026-03
+SH10436,2026-03-06,2026-03-09,2026-03-17,8,Harbor Express,Truck,Montreal,Dallas,1256.6,2221.86,8,On time,2026-03
+SH10896,2026-03-06,2026-03-08,2026-03-30,21,BlueWave Shipping,Ocean,Shanghai,Buffalo,1477.2,1307.19,22,Late,2026-03
+SH10619,2026-03-08,2026-03-08,2026-03-17,4,Summit Air Cargo,Air,Shanghai,Dallas,43.2,440.65,9,Late,2026-03
+SH10143,2026-03-08,2026-03-11,2026-04-06,22,BlueWave Shipping,Ocean,Shanghai,Buffalo,1000.5,1165.2,26,Late,2026-03
+SH10623,2026-03-09,2026-03-09,2026-03-11,3,Summit Air Cargo,Air,Frankfurt,Atlanta,22.2,199.25,2,On time,2026-03
+SH10121,2026-03-10,2026-03-13,2026-03-21,8,Atlas Freight,Truck,Montreal,Atlanta,1040.6,2101.86,8,On time,2026-03
+SH10676,2026-03-10,2026-03-12,2026-04-08,25,Northstar Logistics,Ocean,Rotterdam,New York City,3595.9,3937.26,27,Late,2026-03
+SH10003,2026-03-11,2026-03-13,2026-04-09,28,Atlas Freight,Ocean,Shanghai,New York City,1295.3,1627.52,27,On time,2026-03
+SH10589,2026-03-11,2026-03-11,2026-04-12,28,Northstar Logistics,Ocean,Rotterdam,Rochester,202.5,230.17,32,Late,2026-03
+SH11143,2026-03-11,2026-03-11,2026-04-10,30,BlueWave Shipping,Ocean,Singapore,Dallas,287.0,328.75,30,On time,2026-03
+SH10344,2026-03-11,2026-03-13,2026-03-23,5,Northstar Logistics,Truck,Pittsburgh,Rochester,1703.2,3026.08,10,Late,2026-03
+SH10910,2026-03-13,2026-03-14,2026-03-17,4,Harbor Express,Truck,Pittsburgh,Atlanta,1524.2,2401.86,3,On time,2026-03
+SH10289,2026-03-14,2026-03-17,2026-03-23,7,Harbor Express,Truck,Montreal,Chicago,467.0,1079.22,6,On time,2026-03
+SH10095,2026-03-15,2026-03-16,2026-04-03,19,Northstar Logistics,Ocean,Singapore,Rochester,234.5,314.37,18,On time,2026-03
+SH10607,2026-03-15,2026-03-18,2026-03-21,3,Summit Air Cargo,Air,Mexico City,New York City,118.8,835.92,3,On time,2026-03
+SH10081,2026-03-16,2026-03-19,2026-03-23,4,Harbor Express,Truck,Toronto,Atlanta,1198.1,2392.31,4,On time,2026-03
+SH10348,2026-03-16,2026-03-16,2026-03-18,2,Summit Air Cargo,Air,Mexico City,Rochester,95.9,925.02,2,On time,2026-03
+SH10361,2026-03-16,2026-03-17,2026-03-28,6,Atlas Freight,Truck,Pittsburgh,New York City,1367.5,2210.68,11,Late,2026-03
+SH10843,2026-03-16,2026-03-16,2026-03-18,3,Summit Air Cargo,Air,Mexico City,Dallas,55.0,454.18,2,On time,2026-03
+SH10021,2026-03-16,2026-03-17,2026-04-04,18,Atlas Freight,Ocean,Rotterdam,New York City,451.2,650.38,18,On time,2026-03
+SH10064,2026-03-17,2026-03-17,2026-04-04,19,Northstar Logistics,Ocean,Rotterdam,Atlanta,1036.8,973.87,18,On time,2026-03
+SH11148,2026-03-20,2026-03-22,2026-04-08,18,Atlas Freight,Ocean,Singapore,New York City,1044.6,916.26,17,On time,2026-03
+SH10091,2026-03-20,2026-03-22,2026-03-23,2,Summit Air Cargo,Air,Mexico City,Buffalo,138.3,1010.63,1,On time,2026-03
+SH10394,2026-03-20,2026-03-21,2026-04-15,25,Atlas Freight,Ocean,Singapore,Atlanta,659.3,772.69,25,On time,2026-03
+SH10112,2026-03-21,2026-03-24,2026-04-10,18,Atlas Freight,Ocean,Shanghai,Atlanta,3371.5,3302.85,17,On time,2026-03
+SH10864,2026-03-21,2026-03-23,2026-04-16,25,BlueWave Shipping,Ocean,Shanghai,Rochester,1274.2,1177.28,24,On time,2026-03
+SH10796,2026-03-24,2026-03-24,2026-04-14,22,BlueWave Shipping,Ocean,Shanghai,Chicago,2541.8,2166.95,21,On time,2026-03
+SH11190,2026-03-26,2026-03-28,2026-03-30,2,Summit Air Cargo,Air,Frankfurt,New York City,136.1,991.53,2,On time,2026-03
+SH10080,2026-03-27,2026-03-30,2026-04-20,21,Northstar Logistics,Ocean,Rotterdam,Chicago,262.9,416.59,21,On time,2026-03
+SH10449,2026-03-27,2026-03-28,2026-03-29,2,Summit Air Cargo,Air,Shanghai,Dallas,51.2,528.61,1,On time,2026-03
+SH10296,2026-03-28,2026-03-28,2026-04-16,20,Atlas Freight,Ocean,Singapore,Chicago,1108.5,1031.91,19,On time,2026-03
+SH10855,2026-03-29,2026-03-30,2026-04-04,5,Northstar Logistics,Truck,Toronto,Buffalo,548.0,1199.19,5,On time,2026-03
+SH11147,2026-03-30,2026-04-01,2026-04-08,7,Northstar Logistics,Truck,Pittsburgh,New York City,153.1,384.81,7,On time,2026-03
+SH10903,2026-03-30,2026-04-01,2026-04-22,22,BlueWave Shipping,Ocean,Singapore,Atlanta,3956.1,4464.34,21,On time,2026-03
+SH10178,2026-04-01,2026-04-04,2026-05-03,29,BlueWave Shipping,Ocean,Rotterdam,Dallas,1757.8,1806.26,29,On time,2026-04
+SH10347,2026-04-03,2026-04-04,2026-04-29,26,Atlas Freight,Ocean,Singapore,Chicago,796.9,873.45,25,On time,2026-04
+SH10697,2026-04-03,2026-04-04,2026-05-01,27,Atlas Freight,Ocean,Rotterdam,Dallas,2052.5,1806.24,27,On time,2026-04
+SH11023,2026-04-03,2026-04-04,2026-05-03,30,BlueWave Shipping,Ocean,Singapore,Dallas,825.9,807.41,29,On time,2026-04
+SH10755,2026-04-04,2026-04-04,2026-04-27,21,Atlas Freight,Ocean,Shanghai,New York City,2808.7,3107.46,23,Late,2026-04
+SH10516,2026-04-05,2026-04-08,2026-04-09,2,Summit Air Cargo,Air,Shanghai,Rochester,234.2,1789.61,1,On time,2026-04
+SH10938,2026-04-08,2026-04-10,2026-05-07,27,BlueWave Shipping,Ocean,Singapore,Chicago,1679.0,1739.52,27,On time,2026-04
+SH10964,2026-04-08,2026-04-11,2026-05-04,23,BlueWave Shipping,Ocean,Rotterdam,Dallas,1785.9,1953.66,23,On time,2026-04
+SH10477,2026-04-08,2026-04-10,2026-05-02,23,Atlas Freight,Ocean,Singapore,Buffalo,3819.9,4093.59,22,On time,2026-04
+SH10533,2026-04-10,2026-04-13,2026-05-12,29,Northstar Logistics,Ocean,Rotterdam,Buffalo,735.4,756.71,29,On time,2026-04
+SH11047,2026-04-12,2026-04-12,2026-05-07,26,BlueWave Shipping,Ocean,Singapore,New York City,1964.0,2330.9,25,On time,2026-04
+SH10454,2026-04-14,2026-04-15,2026-05-03,19,BlueWave Shipping,Ocean,Rotterdam,Atlanta,1078.0,1073.38,18,On time,2026-04
+SH10554,2026-04-14,2026-04-16,2026-05-09,23,Atlas Freight,Ocean,Rotterdam,Buffalo,3232.3,2894.18,23,On time,2026-04
+SH10406,2026-04-14,2026-04-15,2026-04-21,6,Harbor Express,Truck,Montreal,Buffalo,2401.3,4754.65,6,On time,2026-04
+SH10500,2026-04-16,2026-04-16,2026-04-25,7,Northstar Logistics,Truck,Montreal,Atlanta,1461.2,2280.71,9,Late,2026-04
+SH10475,2026-04-17,2026-04-17,2026-05-15,28,Atlas Freight,Ocean,Shanghai,Buffalo,2747.6,2727.42,28,On time,2026-04
+SH10082,2026-04-18,2026-04-21,2026-05-17,26,Northstar Logistics,Ocean,Rotterdam,Rochester,3475.1,3862.98,26,On time,2026-04
+SH10494,2026-04-19,2026-04-22,2026-04-29,7,Atlas Freight,Truck,Montreal,Atlanta,944.8,1698.59,7,On time,2026-04
+SH10716,2026-04-20,2026-04-22,2026-04-28,4,Harbor Express,Truck,Toronto,Atlanta,919.9,1465.16,6,Late,2026-04
+SH10889,2026-04-20,2026-04-20,2026-04-23,3,Summit Air Cargo,Air,Frankfurt,Dallas,344.5,2700.83,3,On time,2026-04
+SH10837,2026-04-22,2026-04-24,2026-04-26,2,Summit Air Cargo,Air,Frankfurt,New York City,44.8,482.82,2,On time,2026-04
+SH10686,2026-04-22,2026-04-22,2026-04-25,3,Summit Air Cargo,Air,Mexico City,Dallas,68.0,511.28,3,On time,2026-04
+SH10617,2026-04-23,2026-04-23,2026-04-28,2,Summit Air Cargo,Air,Frankfurt,Atlanta,52.3,486.42,5,Late,2026-04
+SH10038,2026-04-23,2026-04-25,2026-04-30,5,Harbor Express,Truck,Toronto,Rochester,2033.6,3942.52,5,On time,2026-04
+SH11122,2026-04-24,2026-04-24,2026-04-29,5,Northstar Logistics,Truck,Toronto,Atlanta,1198.4,2106.12,5,On time,2026-04
+SH11071,2026-04-25,2026-04-28,2026-04-30,3,Summit Air Cargo,Air,Shanghai,New York City,38.4,473.35,2,On time,2026-04
+SH10089,2026-04-26,2026-04-26,2026-05-21,26,Atlas Freight,Ocean,Rotterdam,New York City,3346.5,3634.13,25,On time,2026-04
+SH10622,2026-04-27,2026-04-27,2026-05-25,28,Atlas Freight,Ocean,Singapore,Rochester,2147.2,1914.23,28,On time,2026-04
+SH11030,2026-04-29,2026-05-02,2026-05-04,3,Summit Air Cargo,Air,Frankfurt,New York City,69.1,583.84,2,On time,2026-04
+SH10261,2026-04-29,2026-04-30,2026-05-10,7,Harbor Express,Truck,Pittsburgh,Atlanta,250.7,534.53,10,Late,2026-04
+SH11058,2026-04-30,2026-05-03,2026-05-31,29,Northstar Logistics,Ocean,Rotterdam,Buffalo,5190.3,5573.0,28,On time,2026-04
+SH11055,2026-05-01,2026-05-03,2026-06-01,29,BlueWave Shipping,Ocean,Rotterdam,Chicago,1542.1,1629.99,29,On time,2026-05
+SH10519,2026-05-02,2026-05-04,2026-05-06,3,Summit Air Cargo,Air,Shanghai,Rochester,18.8,217.4,2,On time,2026-05
+SH10786,2026-05-02,2026-05-05,2026-05-28,23,BlueWave Shipping,Ocean,Rotterdam,New York City,1135.0,972.13,23,On time,2026-05
+SH10779,2026-05-02,2026-05-03,2026-05-10,7,Atlas Freight,Truck,Pittsburgh,Dallas,717.5,1227.88,7,On time,2026-05
+SH10002,2026-05-02,2026-05-03,2026-05-06,3,Summit Air Cargo,Air,Frankfurt,Dallas,173.2,1443.95,3,On time,2026-05
+SH11175,2026-05-02,2026-05-04,2026-05-26,21,Atlas Freight,Ocean,Rotterdam,Chicago,2994.5,3304.94,22,Late,2026-05
+SH11097,2026-05-04,2026-05-04,2026-05-06,3,Summit Air Cargo,Air,Frankfurt,Rochester,484.1,4015.83,2,On time,2026-05
+SH10574,2026-05-04,2026-05-07,2026-06-05,29,BlueWave Shipping,Ocean,Rotterdam,Chicago,3482.0,3992.3,29,On time,2026-05
+SH11189,2026-05-04,2026-05-07,2026-05-14,7,Northstar Logistics,Truck,Pittsburgh,Buffalo,632.5,1180.41,7,On time,2026-05
+SH10688,2026-05-05,2026-05-07,2026-05-15,8,Atlas Freight,Truck,Pittsburgh,Buffalo,1461.5,2893.12,8,On time,2026-05
+SH11117,2026-05-06,2026-05-07,2026-05-13,7,Northstar Logistics,Truck,Montreal,Rochester,22.5,121.96,6,On time,2026-05
+SH10463,2026-05-07,2026-05-08,2026-05-14,6,Harbor Express,Truck,Pittsburgh,Rochester,477.5,919.1,6,On time,2026-05
+SH11039,2026-05-07,2026-05-07,2026-06-06,30,BlueWave Shipping,Ocean,Shanghai,Atlanta,472.5,565.71,30,On time,2026-05
+SH10041,2026-05-07,2026-05-09,2026-05-12,4,Northstar Logistics,Truck,Pittsburgh,Dallas,383.4,781.78,3,On time,2026-05
+SH10706,2026-05-08,2026-05-10,2026-05-18,8,Northstar Logistics,Truck,Pittsburgh,Chicago,1901.4,3165.65,8,On time,2026-05
+SH10367,2026-05-08,2026-05-11,2026-05-22,7,Harbor Express,Truck,Montreal,Rochester,377.2,594.52,11,Late,2026-05
+SH10564,2026-05-09,2026-05-12,2026-06-01,21,BlueWave Shipping,Ocean,Rotterdam,Dallas,1579.4,1495.56,20,On time,2026-05
+SH10330,2026-05-09,2026-05-11,2026-05-16,5,Atlas Freight,Truck,Toronto,Rochester,426.7,829.78,5,On time,2026-05
+SH10711,2026-05-11,2026-05-12,2026-05-31,20,BlueWave Shipping,Ocean,Shanghai,Dallas,560.2,614.4,19,On time,2026-05
+SH10066,2026-05-11,2026-05-14,2026-06-10,27,BlueWave Shipping,Ocean,Rotterdam,Dallas,1993.3,2254.23,27,On time,2026-05
+SH10046,2026-05-12,2026-05-12,2026-05-19,7,Northstar Logistics,Truck,Toronto,Chicago,1597.3,2593.05,7,On time,2026-05
+SH11103,2026-05-12,2026-05-13,2026-05-27,8,Harbor Express,Truck,Pittsburgh,Rochester,1322.0,2196.47,14,Late,2026-05
+SH10651,2026-05-13,2026-05-13,2026-06-03,21,Atlas Freight,Ocean,Rotterdam,Dallas,922.7,1048.49,21,On time,2026-05
+SH10586,2026-05-15,2026-05-18,2026-05-22,5,Atlas Freight,Truck,Toronto,Rochester,795.3,1377.94,4,On time,2026-05
+SH10079,2026-05-15,2026-05-15,2026-06-03,20,BlueWave Shipping,Ocean,Singapore,Chicago,699.9,734.98,19,On time,2026-05
+SH10577,2026-05-15,2026-05-16,2026-05-20,5,Atlas Freight,Truck,Montreal,New York City,1430.6,2288.34,4,On time,2026-05
+SH10813,2026-05-17,2026-05-19,2026-06-18,30,Atlas Freight,Ocean,Singapore,Dallas,1046.7,1289.09,30,On time,2026-05
+SH10206,2026-05-18,2026-05-18,2026-05-26,8,Atlas Freight,Truck,Toronto,Atlanta,1046.9,1976.25,8,On time,2026-05
+SH10668,2026-05-18,2026-05-18,2026-06-13,26,BlueWave Shipping,Ocean,Singapore,Dallas,1702.2,1501.69,26,On time,2026-05
+SH10306,2026-05-18,2026-05-19,2026-06-12,25,BlueWave Shipping,Ocean,Singapore,Atlanta,1088.9,1186.3,24,On time,2026-05
+SH11070,2026-05-19,2026-05-22,2026-06-16,25,Atlas Freight,Ocean,Rotterdam,New York City,3437.8,3121.02,25,On time,2026-05
+SH11046,2026-05-20,2026-05-21,2026-05-29,8,Harbor Express,Truck,Toronto,Rochester,965.6,1464.6,8,On time,2026-05
+SH10420,2026-05-20,2026-05-23,2026-06-11,19,BlueWave Shipping,Ocean,Rotterdam,Rochester,597.3,699.9,19,On time,2026-05
+SH10122,2026-05-21,2026-05-23,2026-05-31,8,Harbor Express,Truck,Pittsburgh,Chicago,685.5,1269.31,8,On time,2026-05
+SH11139,2026-05-21,2026-05-22,2026-05-25,4,Summit Air Cargo,Air,Shanghai,New York City,117.5,1042.0,3,On time,2026-05
+SH11105,2026-05-23,2026-05-23,2026-05-26,4,Northstar Logistics,Truck,Pittsburgh,Rochester,1076.9,1913.89,3,On time,2026-05
+SH10670,2026-05-26,2026-05-28,2026-06-21,24,BlueWave Shipping,Ocean,Rotterdam,Atlanta,1738.5,1850.99,24,On time,2026-05
+SH10244,2026-05-27,2026-05-27,2026-06-14,19,BlueWave Shipping,Ocean,Rotterdam,Dallas,519.2,771.66,18,On time,2026-05
+SH10285,2026-05-28,2026-05-31,2026-06-07,8,Northstar Logistics,Truck,Pittsburgh,Chicago,819.8,1781.91,7,On time,2026-05
+SH10768,2026-05-31,2026-06-01,2026-06-25,24,Northstar Logistics,Ocean,Shanghai,New York City,1219.4,1185.91,24,On time,2026-05
+SH10588,2026-05-31,2026-05-31,2026-06-03,4,Summit Air Cargo,Air,Mexico City,New York City,51.1,501.57,3,On time,2026-05
+SH10618,2026-05-31,2026-06-01,2026-06-20,20,BlueWave Shipping,Ocean,Shanghai,Chicago,1016.7,1147.92,19,On time,2026-05
+SH10628,2026-06-01,2026-06-03,2026-06-26,23,Atlas Freight,Ocean,Shanghai,Dallas,1154.2,1080.01,23,On time,2026-06
+SH10565,2026-06-02,2026-06-04,2026-06-12,8,Harbor Express,Truck,Montreal,Atlanta,178.2,507.81,8,On time,2026-06
+SH10852,2026-06-03,2026-06-04,2026-06-24,21,Northstar Logistics,Ocean,Singapore,Dallas,2259.0,2636.22,20,On time,2026-06
+SH10599,2026-06-03,2026-06-05,2026-06-10,6,Harbor Express,Truck,Montreal,Buffalo,568.7,973.98,5,On time,2026-06
+SH11075,2026-06-04,2026-06-06,2026-06-15,7,Northstar Logistics,Truck,Montreal,Dallas,2099.0,3035.99,9,Late,2026-06
+SH11154,2026-06-07,2026-06-07,2026-06-11,4,Summit Air Cargo,Air,Frankfurt,Rochester,66.8,622.47,4,On time,2026-06
+SH11146,2026-06-08,2026-06-11,2026-06-12,2,Summit Air Cargo,Air,Shanghai,Rochester,186.2,1458.44,1,On time,2026-06
+SH10392,2026-06-08,2026-06-08,2026-06-13,5,Northstar Logistics,Truck,Montreal,Atlanta,762.6,1261.06,5,On time,2026-06
+SH10334,2026-06-12,2026-06-12,2026-07-01,19,Northstar Logistics,Ocean,Singapore,Dallas,1326.9,1478.38,19,On time,2026-06
+SH10168,2026-06-12,2026-06-12,2026-07-05,20,Atlas Freight,Ocean,Singapore,Buffalo,2845.0,2539.89,23,Late,2026-06
+SH10048,2026-06-13,2026-06-16,2026-06-21,4,Harbor Express,Truck,Pittsburgh,Rochester,979.6,1588.44,5,Late,2026-06
+SH10960,2026-06-13,2026-06-15,2026-07-04,20,Northstar Logistics,Ocean,Singapore,Atlanta,2155.2,2367.41,19,On time,2026-06
+SH11040,2026-06-14,2026-06-17,2026-06-20,3,Summit Air Cargo,Air,Shanghai,Buffalo,368.6,2606.33,3,On time,2026-06
+SH10520,2026-06-14,2026-06-15,2026-06-23,8,Atlas Freight,Truck,Toronto,Rochester,282.9,650.02,8,On time,2026-06
+SH10325,2026-06-14,2026-06-15,2026-06-18,4,Summit Air Cargo,Air,Frankfurt,New York City,87.8,626.8,3,On time,2026-06
+SH10553,2026-06-14,2026-06-16,2026-06-25,4,Atlas Freight,Truck,Pittsburgh,Buffalo,1223.3,1773.0,9,Late,2026-06
+SH10205,2026-06-15,2026-06-17,2026-07-16,30,BlueWave Shipping,Ocean,Rotterdam,Dallas,924.5,892.13,29,On time,2026-06
+SH10498,2026-06-17,2026-06-19,2026-07-06,18,Atlas Freight,Ocean,Rotterdam,Chicago,1050.7,1258.2,17,On time,2026-06
+SH10782,2026-06-18,2026-06-20,2026-06-23,4,Summit Air Cargo,Air,Shanghai,New York City,19.0,196.64,3,On time,2026-06
+SH10078,2026-06-18,2026-06-20,2026-06-23,4,Summit Air Cargo,Air,Shanghai,Buffalo,113.3,842.52,3,On time,2026-06
+SH10552,2026-06-19,2026-06-22,2026-06-27,5,Harbor Express,Truck,Toronto,Chicago,502.4,984.4,5,On time,2026-06
+SH10313,2026-06-20,2026-06-21,2026-06-23,2,Summit Air Cargo,Air,Frankfurt,Rochester,163.6,1138.61,2,On time,2026-06
+SH10793,2026-06-20,2026-06-20,2026-06-23,4,Harbor Express,Truck,Montreal,Chicago,390.5,755.0,3,On time,2026-06
+SH10842,2026-06-21,2026-06-24,2026-07-01,7,Harbor Express,Truck,Pittsburgh,Dallas,1029.0,1535.09,7,On time,2026-06
+SH10672,2026-06-21,2026-06-24,2026-06-28,4,Northstar Logistics,Truck,Montreal,Buffalo,1064.4,2176.45,4,On time,2026-06
+SH10221,2026-06-21,2026-06-22,2026-06-28,6,Atlas Freight,Truck,Toronto,Atlanta,74.5,296.92,6,On time,2026-06
+SH11025,2026-06-22,2026-06-23,2026-06-26,4,Summit Air Cargo,Air,Mexico City,Atlanta,69.5,673.39,3,On time,2026-06
+SH11116,2026-06-23,2026-06-24,2026-06-27,4,Harbor Express,Truck,Toronto,Atlanta,1026.4,1622.18,3,On time,2026-06
+SH11019,2026-06-24,2026-06-27,2026-07-28,27,BlueWave Shipping,Ocean,Singapore,Chicago,1566.0,1634.36,31,Late,2026-06
+SH10800,2026-06-26,2026-06-28,2026-07-02,4,Summit Air Cargo,Air,Shanghai,Chicago,221.0,1833.28,4,On time,2026-06
+SH10703,2026-06-26,2026-06-29,2026-07-08,4,Summit Air Cargo,Air,Frankfurt,New York City,40.7,368.2,9,Late,2026-06
+SH10797,2026-06-27,2026-06-30,2026-07-30,25,Northstar Logistics,Ocean,Singapore,Dallas,317.2,485.46,30,Late,2026-06
+SH10107,2026-06-27,2026-06-28,2026-07-29,27,Northstar Logistics,Ocean,Singapore,New York City,329.7,508.28,31,Late,2026-06
+SH10901,2026-06-27,2026-06-29,2026-07-04,5,Atlas Freight,Truck,Montreal,Buffalo,1184.6,1919.91,5,On time,2026-06
+SH11052,2026-06-28,2026-07-01,2026-07-07,7,Atlas Freight,Truck,Toronto,New York City,3300.4,5027.77,6,On time,2026-06
+SH10753,2026-06-28,2026-06-29,2026-07-22,24,BlueWave Shipping,Ocean,Singapore,New York City,1458.6,1696.49,23,On time,2026-06
+SH11129,2026-06-29,2026-07-01,2026-07-27,21,Northstar Logistics,Ocean,Singapore,Dallas,2717.6,2766.82,26,Late,2026-06
+SH10835,2026-06-30,2026-07-02,2026-07-30,23,BlueWave Shipping,Ocean,Singapore,Atlanta,1435.3,1490.41,28,Late,2026-06
+SH10399,2026-06-30,2026-06-30,2026-07-25,20,Northstar Logistics,Ocean,Singapore,Dallas,4400.0,4293.67,25,Late,2026-06
+SH10114,2026-06-30,2026-07-02,2026-07-11,4,Harbor Express,Truck,Montreal,Dallas,1898.7,3260.31,9,Late,2026-06
+SH11043,2026-06-30,2026-07-01,2026-07-03,3,Summit Air Cargo,Air,Shanghai,Dallas,78.9,713.74,2,On time,2026-06
+SH10832,2026-07-01,2026-07-01,2026-07-09,5,Harbor Express,Truck,Pittsburgh,Buffalo,882.6,1776.01,8,Late,2026-07
+SH10788,2026-07-02,2026-07-02,2026-07-03,2,Summit Air Cargo,Air,Mexico City,New York City,140.0,1162.74,1,On time,2026-07
+SH10125,2026-07-03,2026-07-03,2026-07-08,5,Harbor Express,Truck,Montreal,Chicago,178.4,409.64,5,On time,2026-07
+SH10538,2026-07-03,2026-07-04,2026-07-07,3,Summit Air Cargo,Air,Frankfurt,New York City,68.5,508.04,3,On time,2026-07
+SH10105,2026-07-03,2026-07-04,2026-07-15,5,Atlas Freight,Truck,Montreal,Buffalo,790.1,1764.23,11,Late,2026-07
+SH10025,2026-07-04,2026-07-06,2026-08-05,27,Northstar Logistics,Ocean,Shanghai,Chicago,693.5,869.98,30,Late,2026-07
+SH11054,2026-07-04,2026-07-07,2026-07-12,6,Harbor Express,Truck,Pittsburgh,Buffalo,2484.4,4104.73,5,On time,2026-07
+SH10515,2026-07-05,2026-07-06,2026-07-08,2,Summit Air Cargo,Air,Mexico City,New York City,68.2,528.04,2,On time,2026-07
+SH10022,2026-07-05,2026-07-06,2026-07-23,18,BlueWave Shipping,Ocean,Singapore,Rochester,3187.5,3384.75,17,On time,2026-07
+SH10655,2026-07-06,2026-07-09,2026-07-12,4,Summit Air Cargo,Air,Mexico City,Buffalo,113.8,991.71,3,On time,2026-07
+SH10013,2026-07-09,2026-07-10,2026-08-11,27,BlueWave Shipping,Ocean,Shanghai,Atlanta,1273.7,1506.62,32,Late,2026-07
+SH10175,2026-07-09,2026-07-10,2026-07-14,5,Harbor Express,Truck,Pittsburgh,Buffalo,851.0,1394.38,4,On time,2026-07
+SH10035,2026-07-12,2026-07-14,2026-07-15,2,Summit Air Cargo,Air,Mexico City,Dallas,104.1,741.98,1,On time,2026-07
+SH10936,2026-07-12,2026-07-12,2026-07-17,6,Harbor Express,Truck,Pittsburgh,Chicago,2373.0,4817.07,5,On time,2026-07
+SH10479,2026-07-13,2026-07-15,2026-07-19,4,Summit Air Cargo,Air,Mexico City,Chicago,104.8,775.54,4,On time,2026-07
+SH10895,2026-07-13,2026-07-15,2026-07-21,6,Northstar Logistics,Truck,Montreal,New York City,188.2,420.78,6,On time,2026-07
+SH10006,2026-07-13,2026-07-16,2026-07-22,3,Summit Air Cargo,Air,Mexico City,Atlanta,117.9,774.22,6,Late,2026-07
+SH11041,2026-07-15,2026-07-18,2026-08-16,26,Northstar Logistics,Ocean,Rotterdam,New York City,324.8,542.79,29,Late,2026-07
+SH10352,2026-07-15,2026-07-17,2026-08-03,18,Northstar Logistics,Ocean,Singapore,Rochester,324.6,429.4,17,On time,2026-07
+SH10945,2026-07-16,2026-07-17,2026-07-23,7,Harbor Express,Truck,Montreal,Dallas,177.4,510.86,6,On time,2026-07
+SH11092,2026-07-16,2026-07-18,2026-07-24,7,Atlas Freight,Truck,Toronto,Buffalo,398.2,809.53,6,On time,2026-07
+SH10654,2026-07-18,2026-07-18,2026-07-30,6,Northstar Logistics,Truck,Pittsburgh,Dallas,256.8,534.37,12,Late,2026-07
+SH10267,2026-07-18,2026-07-19,2026-08-10,22,BlueWave Shipping,Ocean,Rotterdam,Buffalo,2098.4,2366.6,22,On time,2026-07
+SH10834,2026-07-18,2026-07-21,2026-08-09,19,BlueWave Shipping,Ocean,Rotterdam,Chicago,1737.4,1820.72,19,On time,2026-07
+SH10202,2026-07-18,2026-07-18,2026-07-20,2,Summit Air Cargo,Air,Shanghai,Buffalo,28.0,224.14,2,On time,2026-07
+SH10023,2026-07-19,2026-07-22,2026-07-26,4,Atlas Freight,Truck,Pittsburgh,Atlanta,487.7,1015.71,4,On time,2026-07
+SH10606,2026-07-19,2026-07-19,2026-08-12,21,BlueWave Shipping,Ocean,Rotterdam,Buffalo,3771.6,3971.28,24,Late,2026-07
+SH10185,2026-07-21,2026-07-21,2026-07-28,8,Harbor Express,Truck,Montreal,Atlanta,682.0,1417.21,7,On time,2026-07
+SH10581,2026-07-21,2026-07-21,2026-07-24,4,Summit Air Cargo,Air,Mexico City,Dallas,56.9,511.96,3,On time,2026-07
+SH10190,2026-07-22,2026-07-24,2026-08-19,23,BlueWave Shipping,Ocean,Rotterdam,Dallas,778.8,942.44,26,Late,2026-07
+SH10487,2026-07-22,2026-07-24,2026-08-11,18,Northstar Logistics,Ocean,Singapore,Dallas,2094.7,2415.35,18,On time,2026-07
+SH10661,2026-07-28,2026-07-28,2026-08-03,7,Northstar Logistics,Truck,Montreal,Atlanta,318.3,784.2,6,On time,2026-07
+SH10513,2026-07-28,2026-07-31,2026-08-08,3,Summit Air Cargo,Air,Shanghai,Atlanta,28.5,344.6,8,Late,2026-07
+SH10925,2026-07-29,2026-08-01,2026-08-06,5,Atlas Freight,Truck,Pittsburgh,Atlanta,430.2,735.75,5,On time,2026-07
+SH10429,2026-07-29,2026-08-01,2026-08-30,29,BlueWave Shipping,Ocean,Rotterdam,New York City,1054.3,1118.3,29,On time,2026-07
+SH10695,2026-08-01,2026-08-01,2026-08-12,5,Harbor Express,Truck,Toronto,Atlanta,239.0,466.0,11,Late,2026-08
+SH10472,2026-08-01,2026-08-02,2026-08-08,6,Harbor Express,Truck,Montreal,Dallas,213.2,482.63,6,On time,2026-08
+SH10909,2026-08-01,2026-08-01,2026-08-07,5,Harbor Express,Truck,Toronto,Dallas,410.4,741.15,6,Late,2026-08
+SH10219,2026-08-02,2026-08-02,2026-08-29,26,Northstar Logistics,Ocean,Singapore,Chicago,1270.0,1295.28,27,Late,2026-08
+SH11132,2026-08-02,2026-08-02,2026-09-03,30,Northstar Logistics,Ocean,Singapore,Dallas,3261.5,3269.5,32,Late,2026-08
+SH10656,2026-08-03,2026-08-06,2026-08-13,7,Harbor Express,Truck,Toronto,Atlanta,1975.4,3718.22,7,On time,2026-08
+SH10830,2026-08-03,2026-08-05,2026-08-18,8,Northstar Logistics,Truck,Montreal,Buffalo,1360.1,2701.32,13,Late,2026-08
+SH11016,2026-08-04,2026-08-04,2026-08-09,6,Atlas Freight,Truck,Pittsburgh,New York City,1179.6,1895.65,5,On time,2026-08
+SH10872,2026-08-04,2026-08-07,2026-08-31,24,Atlas Freight,Ocean,Rotterdam,Buffalo,542.5,735.15,24,On time,2026-08
+SH10562,2026-08-06,2026-08-09,2026-08-14,5,Northstar Logistics,Truck,Montreal,Dallas,307.4,715.57,5,On time,2026-08
+SH11006,2026-08-06,2026-08-09,2026-08-13,5,Harbor Express,Truck,Pittsburgh,Dallas,503.8,1132.44,4,On time,2026-08
+SH10726,2026-08-07,2026-08-10,2026-08-17,7,Harbor Express,Truck,Toronto,New York City,457.9,840.73,7,On time,2026-08
+SH10933,2026-08-08,2026-08-09,2026-08-28,20,BlueWave Shipping,Ocean,Singapore,Atlanta,2101.7,2426.7,19,On time,2026-08
+SH10195,2026-08-08,2026-08-08,2026-08-22,8,Harbor Express,Truck,Montreal,New York City,244.7,605.01,14,Late,2026-08
+SH10389,2026-08-10,2026-08-13,2026-08-21,8,Harbor Express,Truck,Montreal,Chicago,133.7,297.6,8,On time,2026-08
+SH10073,2026-08-10,2026-08-11,2026-08-12,2,Summit Air Cargo,Air,Mexico City,Atlanta,138.9,851.4,1,On time,2026-08
+SH10951,2026-08-11,2026-08-11,2026-08-16,6,Atlas Freight,Truck,Pittsburgh,Atlanta,334.6,655.83,5,On time,2026-08
+SH11111,2026-08-13,2026-08-15,2026-08-22,7,Harbor Express,Truck,Montreal,Buffalo,650.0,1018.85,7,On time,2026-08
+SH10388,2026-08-13,2026-08-16,2026-08-18,3,Summit Air Cargo,Air,Shanghai,Rochester,159.0,1090.44,2,On time,2026-08
+SH10760,2026-08-13,2026-08-16,2026-08-20,4,Atlas Freight,Truck,Montreal,Dallas,380.0,907.8,4,On time,2026-08
+SH10787,2026-08-13,2026-08-15,2026-09-10,27,Atlas Freight,Ocean,Rotterdam,Rochester,1046.9,1174.48,26,On time,2026-08
+SH10378,2026-08-14,2026-08-15,2026-08-21,4,Atlas Freight,Truck,Toronto,Buffalo,634.8,1212.42,6,Late,2026-08
+SH10917,2026-08-15,2026-08-15,2026-08-20,5,Northstar Logistics,Truck,Pittsburgh,Chicago,2408.0,4030.75,5,On time,2026-08
+SH10254,2026-08-15,2026-08-16,2026-09-11,26,Northstar Logistics,Ocean,Singapore,Rochester,712.7,730.5,26,On time,2026-08
+SH10145,2026-08-15,2026-08-15,2026-08-20,6,Atlas Freight,Truck,Toronto,Dallas,1003.9,2118.87,5,On time,2026-08
+SH10056,2026-08-16,2026-08-18,2026-08-20,2,Summit Air Cargo,Air,Frankfurt,New York City,36.0,359.18,2,On time,2026-08
+SH11011,2026-08-17,2026-08-20,2026-08-22,2,Summit Air Cargo,Air,Shanghai,Buffalo,31.6,384.4,2,On time,2026-08
+SH10984,2026-08-17,2026-08-19,2026-08-23,4,Harbor Express,Truck,Montreal,Buffalo,1163.1,1873.33,4,On time,2026-08
+SH10783,2026-08-17,2026-08-18,2026-08-22,5,Northstar Logistics,Truck,Pittsburgh,Rochester,149.8,313.75,4,On time,2026-08
+SH10507,2026-08-18,2026-08-19,2026-09-05,18,BlueWave Shipping,Ocean,Singapore,New York City,2118.0,2040.29,17,On time,2026-08
+SH10338,2026-08-18,2026-08-20,2026-08-23,4,Harbor Express,Truck,Toronto,New York City,836.0,1403.12,3,On time,2026-08
+SH10050,2026-08-20,2026-08-23,2026-08-31,8,Harbor Express,Truck,Toronto,Atlanta,774.1,1523.95,8,On time,2026-08
+SH10237,2026-08-21,2026-08-22,2026-09-20,30,Northstar Logistics,Ocean,Rotterdam,Rochester,1420.4,1407.74,29,On time,2026-08
+SH10490,2026-08-22,2026-08-23,2026-08-24,2,Summit Air Cargo,Air,Shanghai,Chicago,416.0,3341.61,1,On time,2026-08
+SH11113,2026-08-24,2026-08-27,2026-09-21,26,BlueWave Shipping,Ocean,Shanghai,Dallas,2894.8,3395.27,25,On time,2026-08
+SH10754,2026-08-24,2026-08-27,2026-09-03,8,Northstar Logistics,Truck,Toronto,Dallas,127.2,258.76,7,On time,2026-08
+SH10215,2026-08-24,2026-08-27,2026-08-29,3,Summit Air Cargo,Air,Shanghai,Chicago,169.8,1211.89,2,On time,2026-08
+SH10987,2026-08-25,2026-08-25,2026-09-18,24,BlueWave Shipping,Ocean,Rotterdam,New York City,545.1,644.17,24,On time,2026-08
