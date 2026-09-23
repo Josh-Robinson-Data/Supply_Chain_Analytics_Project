@@ -54,7 +54,8 @@ Notebook: [`notebooks/project3_mysql_cloud.ipynb`](notebooks/project3_mysql_clou
 
 ![Power BI dashboard](images/powerbi_dashboard.png)
 ![Tableau dashboard](images/tableau_dashboard.png)
-
+Tableau Link:
+https://public.tableau.com/app/profile/joshua.robinson4473/viz/ShipmentPerformanceDashboard_17901973116220/ShipmentPerformanceJanAug2026?publish=yes 
 ## Tools
 
 Python · pandas · scikit-learn · SQL · MySQL · SQLAlchemy · Power BI (DAX, Power Query) · Tableau · Google Colab · Git/GitHub
